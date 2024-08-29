@@ -6,8 +6,8 @@ hr{
 
 .specific-place {
     position: absolute;
-    top: 100px; /* Adjust as needed */
-    left: 50%; /* Adjust as needed */
+    top: 100px; 
+    left: 50%; 
   transform: translateX(-50%);
     color: WHITE;
     font-style: italic; 
